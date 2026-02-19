@@ -242,6 +242,7 @@ height: 95vh;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     padding-bottom: 60px;
+    text-align: justify;
 }
 
 .services-area{
